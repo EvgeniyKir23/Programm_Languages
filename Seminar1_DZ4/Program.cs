@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-Console.WriteLine("Привет, введи 3 числа!");
+﻿Console.WriteLine("Привет, введи 3 числа!");
 
 int A = Convert.ToInt32(Console.ReadLine());
 int B = Convert.ToInt32(Console.ReadLine());
