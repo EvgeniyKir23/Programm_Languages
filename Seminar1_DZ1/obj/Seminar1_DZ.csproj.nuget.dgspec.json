@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KirillovEE\\Documents\\Seminar1_DZ\\Seminar1_DZ.csproj": {}
+    "C:\\Users\\KirillovEE\\Documents\\Seminar1_DZ\\Seminar1_DZ1\\Seminar1_DZ.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KirillovEE\\Documents\\Seminar1_DZ\\Seminar1_DZ.csproj": {
+    "C:\\Users\\KirillovEE\\Documents\\Seminar1_DZ\\Seminar1_DZ1\\Seminar1_DZ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KirillovEE\\Documents\\Seminar1_DZ\\Seminar1_DZ.csproj",
+        "projectUniqueName": "C:\\Users\\KirillovEE\\Documents\\Seminar1_DZ\\Seminar1_DZ1\\Seminar1_DZ.csproj",
         "projectName": "Seminar1_DZ",
-        "projectPath": "C:\\Users\\KirillovEE\\Documents\\Seminar1_DZ\\Seminar1_DZ.csproj",
+        "projectPath": "C:\\Users\\KirillovEE\\Documents\\Seminar1_DZ\\Seminar1_DZ1\\Seminar1_DZ.csproj",
         "packagesPath": "C:\\Users\\KirillovEE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KirillovEE\\Documents\\Seminar1_DZ\\obj\\",
+        "outputPath": "C:\\Users\\KirillovEE\\Documents\\Seminar1_DZ\\Seminar1_DZ1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KirillovEE\\AppData\\Roaming\\NuGet\\NuGet.Config"
